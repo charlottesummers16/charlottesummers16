@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlottesummers16
-- 👀 I’m interested in mainly Android Application development with a small interest in iOS Application development.
+- 👀 I’m interested in mainly Android Application development.
 - 🌱 I’m currently learning Kotlin.
 <!---
 - 💞️ I’m looking to collaborate on ...
