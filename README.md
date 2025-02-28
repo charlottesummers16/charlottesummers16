@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlottesummers16
-- 👀 I’m interested in mainly Android Application development.
+- 👀 I’m interested in mainly Java Microservices and Android Application development.
 - 🌱 I’m currently learning Kotlin for mobile apps and Java for Spring Boot microservices.
 <!---
 - 💞️ I’m looking to collaborate on ...
